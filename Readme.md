@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/awanmbandi/realworld-cicd-pipeline-project/blob/zdocs/images/awanmbandi-github-profile-display.gif)](https://github.com/Val242)
+
 
 <h1 align="center">Hi 👋, I'm Ebong Valentine</h1>
 
